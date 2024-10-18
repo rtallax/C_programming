@@ -1,0 +1,2 @@
+bubble sort	----->  sort the adjacent elements in tha array
+selection sort  ----->  searches the smallest element in the array and swaps the element to the current position
