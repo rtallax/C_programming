@@ -1,0 +1,2 @@
+lsearch ----->  searches each element with remaining elements in the array
+bsearch ----->  divides the array into two halfs and searches the element in first half and second half

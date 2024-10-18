@@ -1,0 +1,3 @@
+1) Find Little & Big endians
+2) Find even numbers and also the position of the given even number variable
+3) 
