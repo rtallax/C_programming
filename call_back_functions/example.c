@@ -8,6 +8,6 @@ int main()
 	printf("ptr:%ld, *ptr:%ld, &ptr:%ld\n", ptr,*ptr,&ptr);
 	free(ptr);
 	ptr = NULL;
-	printf("ptr:%ld, *ptr:%ld, &ptr:%ld\n", ptr,*ptr,&ptr);
+	printf("ptr:%ld\n", ptr);
 //	while(1);
 }
