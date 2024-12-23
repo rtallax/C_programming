@@ -1,0 +1,52 @@
+				C Programs
+
+1, what is the answer of following code 
+	printf("%x",-1>>1); //o/p:
+	int a=5,b=6;
+	printf("%d, %d, %d, %d\n",a,b,a+++b,(++a)+(++b)); //o/p:
+	
+2, Write a C program for below
+	input: 0x12345678;
+	output: 0x78563412; 
+
+3, Write a C program to reverse below strings in the sentence as example:
+	input string: "Welcome to Mirafra technologies"
+	output should be: "emocleW ot arfariM seigolonhcet"  
+
+4, Write a C program to print "Hello World!" program using dynamic memory allocation.
+
+5, Write a C program to check the bit status of an integer number using Macro definition
+
+6, Write your own API(function) for strcpy in C 
+
+7, write a C program to sort an array using below function conditions:
+         conditions :
+                step - 1: write a function which return type is integer, which returns max element index from 0 to specific index?
+                step - 2: write a function which reverse the elements in an array from 0 to specific index?
+		step - 3: Sort the array using above condition functions Note: do not use any extra array to storing elements.
+			input arr={1,7,6,2,9,3};
+				For example: step-1: Return position index of 9;
+					     step-2: Pass above index and array to the function so it should look {9,2,6,7,1,3};
+			output arr after sorting should be = {1,2,3,6,7,9};
+
+8, Write a C program for below single Linked list 
+	input : 1->2->3->4->5
+	output: 3->4->5->1->2
+
+Qualcomm interview questions:
+
+1, Time complexity of searching and sorting techniques and their functinality
+2, Find Loop in a linked list 
+3, Static and Global variables use and their limitations in storage classes
+4, Arthematic operations in c 
+5, Function pointers and array pointers
+6, In an array find the maximum number after concatination.
+	Ex: a[5] = {99,89,5,6,15} output {99,89,6,5,15} max number is 99896515
+7, Macro to check the bit is set or not
+
+Concepts:
+Windows/Unix Kernel architecture, concepts like shared memory, semaphores, mutex, system call, deadlock, spinlock, IOCTLs etc.
+
+Solid understanding of ARM or any other processor architecture (core, cache, memory, bus architecture, IOs, etc.)
+
+Strong in Operating systems concepts - scheduling, memory management and device drivers development in Linux/RTOS
